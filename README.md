@@ -10,7 +10,7 @@
     Currently a student at Epitech and Head of the Hardware / IoT at <a href=https://github.com/PoCInnovation>PoC Innovation </a>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/static/v1?message=OnsagerHe&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-valentin-751a62202/)](https://www.linkedin.com/in/albert-valentin-751a62202/)
+[![Linkedin Badge](https://img.shields.io/static/v1?message=OnsagerHe&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-valentin-751a62202/)](https://www.linkedin.com/in/albert-valentin-751a62202/)
 
 
 <p align='center'>
