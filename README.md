@@ -4,6 +4,8 @@
   Hi there 👋 I'm OnsagerHe 👩‍💻
 </h1>
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
 <p align='center'>
     Currently a student at Epitech and Head of the Hardware / IoT at <a href=https://github.com/PoCInnovation>PoC Innovation </a>
 </p>
