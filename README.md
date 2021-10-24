@@ -14,9 +14,9 @@
 <p align='center'>
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=OnsagerHe&style=flat-square"/></code>
+</br>
 <code><img src="https://badges.pufler.dev/repos/OnsagerHe"/></code>
 </p>
-</br>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=OnsagerHe&show_icons=true&theme=midnight-purple&layout=compact&count_private=true&include_all_commits=true" width="49%" />
