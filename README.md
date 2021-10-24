@@ -35,8 +35,8 @@
 <a href="https://github.com/OnsagerHe/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnsagerHe&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/OnsagerHe/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnsagerHe&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/OnsagerHe/OnsagerHe.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnsagerHe&repo=OnsagerHe.github.io&theme=buefy" />
 </a>
 
 <br />
