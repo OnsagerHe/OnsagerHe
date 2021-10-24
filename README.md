@@ -10,6 +10,10 @@
     Currently a student at Epitech and Head of the Hardware / IoT at <a href=https://github.com/PoCInnovation>PoC Innovation </a>
 </p>
 
+<a href="https://www.linkedin.com/in/albert-valentin-751a62202/">
+  <img align="left" alt="OnsagerHe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <p align='center'>
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">
