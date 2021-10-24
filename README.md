@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=OnsagerHe&show_icons=true&theme=midnight-purple&layout=compact&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OnsagerHe&show_icons=true&theme=w3-theme&layout=compact&count_private=true&include_all_commits=true" width="49%" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnsagerHe&theme=midnight-purple&layout=compact" width="49%" /> 
 </p>
