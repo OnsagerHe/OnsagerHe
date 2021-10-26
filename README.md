@@ -11,14 +11,20 @@
 </p>
 
 <p align='center'>
-<a href="https://github.com/PoCInnovation">
+    <a href="https://twitter.com/OnsagerH">
+      <img src="https://img.shields.io/badge/-Onsager_He-blue?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
+
+<p align='center'>
+  <a href="https://www.epitech.eu">
+      <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">
+  </a>
+  <a href="https://github.com/PoCInnovation">
       <img src="https://img.shields.io/badge/PoC Innovation-1DA1F2?style=for-the-badge&logo=github&logoColor=black">
   </a>
   <a href="https://www.trombone.fr/">
       <img src="https://img.shields.io/badge/-Trombone-black?style=for-the-badge&logo=trombone&logoColor=black">
-  </a>
-    <a href="https://twitter.com/OnsagerH">
-      <img src="https://img.shields.io/badge/-Onsager_He-blue?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
 
