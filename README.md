@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
-<img src="https://hatscripts.github.io/circle-flags/flags/en.svg" width="24">
+<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="24">
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=OnsagerHe&style=flat-square"/></code>
 <code><img src="https://badges.pufler.dev/repos/OnsagerHe"/></code>
