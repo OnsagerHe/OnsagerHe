@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/PoC Innovation-1DA1F2?style=for-the-badge&logo=github&logoColor=black">
   </a>
   <a href="https://www.trombone.fr/">
-      <img src="https://img.shields.io/badge/-Trombone-black?style=for-the-badge&logo=github&logoColor=black">
+      <img src="https://img.shields.io/badge/-Trombone-grey?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </p>
 
