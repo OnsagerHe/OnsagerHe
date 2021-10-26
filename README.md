@@ -10,6 +10,10 @@
     Currently a student at Epitech and Head of the Hardware / IoT at <a href=https://github.com/PoCInnovation>PoC Innovation </a>
 </p>
 
+  <a href="https://github.com/PoCInnovation">
+      <img src="https://img.shields.io/badge/PoC Innovation-1DA1F2?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+
 
 <p align='center'>
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">
