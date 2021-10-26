@@ -17,6 +17,9 @@
   <a href="https://www.trombone.fr/">
       <img src="https://img.shields.io/badge/-Trombone-black?style=for-the-badge&logo=trombone&logoColor=black">
   </a>
+    <a href="https://twitter.com/OnsagerH">
+      <img src="https://img.shields.io/badge/-OnsagerHe-blue?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
 </p>
 
 <p align='center'>
