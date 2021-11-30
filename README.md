@@ -4,8 +4,6 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </br>I'm OnsagerHe 👩‍💻
 </h1>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
-
 <p align='center'>
     Currently a student at Epitech Paris in my second year of computer science and Head of the Hardware / IoT at PoC Innovation
 </p>
