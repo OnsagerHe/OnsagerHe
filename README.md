@@ -51,6 +51,9 @@
 
 </div>
 </details>
+<div align="center">
+  <img src="./giphy.gif"/>
+</div>
 
 [c-url]: https://www.learn-c.org/
 [c++-url]: https://www.cplusplus.com/
