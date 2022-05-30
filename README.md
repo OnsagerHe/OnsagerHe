@@ -37,14 +37,31 @@
   </br>
 </p>
 
-<p align='center'>
-
+<details>
+    <summary><p align="center" bold=true>:hook: Technical skills</p></p></summary>
   
-<h3 align="left">:rocket: Most Used Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+||||||
+|-|-|-|-|-|
+|<p align="center">**:rocket: Most used**</p><p align="center"> |<p align="center">**C**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/c.svg" width="32">][c-url] </p>|<p align="center">**C++**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="32">][c++-url] </p>|<p align="center">**Python**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/python.svg" width="32">][python-url] </p>|<p align="center">**Haskell**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/haskell-icon.svg" width="32" height="32">][haskell-url] </p>|
+|<p align="center">**:dart: Currently learning**</p><p align="center">|<p align="center">**Go**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/go.svg" width="45" height="32">][go-url] </p>|<p align="center">**Typescript**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="32">][typescript-url] </p>|
+|<p align="center">**:gear: Devops tools**</p><p align="center">|<p align="center">**Docker**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="32" height="32">][docker-url] </p>|<p align="center">**Jenkins**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/jenkins.svg" width="32" height="32">][jenkins-url] </p> |<p align="center">**GithubActions**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/github-actions.svg" width="32" height="32">][githubActions-url] </p>|<p align="center">**Postman**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/postman-icon.svg" width="32" height="32">][postman-url] </p>|
+|<p align="center">**:computer: IDE**</p><p align="center">|<p align="center">**Jetbrains**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/jetbrains.svg" width="32" height="32">][jetbrains-url] </p>|<p align="center">**Vim**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/vim.svg" width="32" height="32">][vim-url] </p>|<p align="center">**Emacs**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/emacs.svg" width="32" height="32">][emacs-url] </p>|<p align="center">**VS Code**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="32" height="32">][vsCode-url] </p>|
+</details>
 
-<h3 align="left">:gear: Devops Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> </p>
+[c-url]: https://www.learn-c.org/
+[c++-url]: https://www.cplusplus.com/
+[python-url]: https://www.python.org/
+[haskell-url]: https://www.haskell.org/
 
-<h3 align="left">:dart: Currently Learning:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[go-url]: https://go.dev/
+[typescript-url]: https://www.typescriptlang.org/
+
+[githubActions-url]: https://github.com/features/actions
+[postman-url]: https://www.postman.com/
+[docker-url]: https://www.docker.com/
+[jenkins-url]: https://www.jenkins.io/
+
+[vsCode-url]: https://code.visualstudio.com/
+[jetbrains-url]: https://www.jetbrains.com/
+[vim-url]: https://github.com/vim/vim
+[emacs-url]: https://www.gnu.org/software/emacs/
