@@ -43,7 +43,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F7AB24&background=FFFFFF00&center=true&multiline=true&width=1025&height=80&lines=Hey+you+!;Click+below+to+see+more+...)](https://git.io/typing-svg)
 
 <details>
-    <summary><h2align="center"><b>:hook: Technical skills</b></h2></summary>
+    <summary><h3><b>:hook: Technical skills</b></h3></summary>
   
 <div align="center">
 
