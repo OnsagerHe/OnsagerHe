@@ -38,14 +38,18 @@
 </p>
 
 <details>
-    <summary><p align="center" bold=true>:hook: Technical skills</p></p></summary>
+    <summary><p align="center">:hook: <b>Technical skills</b></p></p></summary>
   
+<div align="center">
+
 ||||||
 |-|-|-|-|-|
 |<p align="center">**:rocket: Most used**</p><p align="center"> |<p align="center">**C**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/c.svg" width="32">][c-url] </p>|<p align="center">**C++**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="32">][c++-url] </p>|<p align="center">**Python**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/python.svg" width="32">][python-url] </p>|<p align="center">**Haskell**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/haskell-icon.svg" width="32" height="32">][haskell-url] </p>|
 |<p align="center">**:dart: Currently learning**</p><p align="center">|<p align="center">**Go**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/go.svg" width="45" height="32">][go-url] </p>|<p align="center">**Typescript**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="32">][typescript-url] </p>|
 |<p align="center">**:gear: Devops tools**</p><p align="center">|<p align="center">**Docker**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="32" height="32">][docker-url] </p>|<p align="center">**Jenkins**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/jenkins.svg" width="32" height="32">][jenkins-url] </p> |<p align="center">**GithubActions**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/github-actions.svg" width="32" height="32">][githubActions-url] </p>|<p align="center">**Postman**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/postman-icon.svg" width="32" height="32">][postman-url] </p>|
 |<p align="center">**:computer: IDE**</p><p align="center">|<p align="center">**Jetbrains**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/jetbrains.svg" width="32" height="32">][jetbrains-url] </p>|<p align="center">**Vim**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/vim.svg" width="32" height="32">][vim-url] </p>|<p align="center">**Emacs**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/emacs.svg" width="32" height="32">][emacs-url] </p>|<p align="center">**VS Code**</p><p align="center">[<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="32" height="32">][vsCode-url] </p>|
+
+</div>
 </details>
 
 [c-url]: https://www.learn-c.org/
