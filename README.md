@@ -9,7 +9,7 @@
     Currently a student at Epitech Paris in my second year of computer science and Head of Hardware / IoT and P2P at PoC Innovation
 </p>
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=F7AB24&center=true&vCenter=true&multiline=true&width=1025&height=80&lines=Currently+a+student+at+Epitech+Paris+in+my+second+year+of+computer+science;Head+of+Hardware+%2F+IoT+and+P2P+at+PoC+Innovation+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=F7AB24&center=true&vCenter=true&multiline=true&width=1025&height=80&lines=Currently+a+student+at+Epitech+Paris+in+my+second+year+of+computer+science;Head+of+Hardware+%2F+IoT+and+P2P+at+PoC+Innovation+)](https://github.com/OnsagerHe)
 
 <p align='center'>
     <a href="https://twitter.com/OnsagerH">
@@ -40,7 +40,7 @@
   </br>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F7AB24&background=FFFFFF00&center=true&multiline=true&width=1025&height=80&lines=Hey+you+!;Click+below+to+see+more+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F7AB24&background=FFFFFF00&center=true&multiline=true&width=1025&height=80&lines=Hey+you+!;Click+below+to+see+more+...)](https://github.com/OnsagerHe)
 
 <details>
     <summary><h3><b>:hook: Technical skills</b></h3></summary>
