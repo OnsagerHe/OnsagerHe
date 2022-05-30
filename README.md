@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-    Currently a student at Epitech Paris in my second year of computer science and Head of the Hardware / IoT and P2P at PoC Innovation
+    Currently a student at Epitech Paris in my second year of computer science and Head of Hardware / IoT and P2P at PoC Innovation
 </p>
 
 <p align='center'>
