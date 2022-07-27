@@ -4,7 +4,7 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </br>I'm OnsagerHe 👩‍💻
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=F7AB24&center=true&vCenter=true&multiline=true&width=1025&height=80&lines=Currently+a+student+at+Epitech+Paris+in+my+second+year+of+computer+science;Head+of+Hardware+%2F+IoT+and+P2P+at+PoC+Innovation+)](https://github.com/OnsagerHe)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=F7AB24&center=true&vCenter=true&multiline=true&width=1025&height=80&lines=Currently+a+student+at+Epitech+Paris+in+my+second+year+of+computer+science;Ex+Head+of+Hardware+%2F+IoT+and+P2P+at+PoC+Innovation+)](https://github.com/OnsagerHe)
 
 <p align='center'>
     <a href="https://twitter.com/OnsagerH">
